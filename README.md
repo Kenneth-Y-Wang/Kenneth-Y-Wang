@@ -30,9 +30,37 @@ Please check out my recent projects and profiles! :point_down:
 
 # My links :link:
 
-## My recent projects
-- [Puppy Paradise](https://github.com/Kenneth-Y-Wang/puppy-paradise)
-- [ThriveVox](https://github.com/Kenneth-Y-Wang/ThriveVox)
+## Connect Me!
 
-## Connect Me
-- [LinkedIn](https://www.linkedin.com/in/kenneth-wang8/)
+<a href="https://www.linkedin.com/in/kenneth-wang8/">
+<img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Linkedin" width="64px"/> Connect with me on LinkedIn!
+</a>
+
+## My recent projects
+- [Puppy Paradise](https://github.com/Kenneth-Y-Wang/puppy-paradise) - A web application for puppy lovers who seek entertainment from cute pictures, fun games, and organize their own pets’ daily activities.
+
+---
+
+- [ThriveVox](https://github.com/Kenneth-Y-Wang/ThriveVox) - A full stack web application for musicians and music lovers who want to find single/band members, share and discuss their musical interests and favorites
+
+User can display personal info
+
+![User-display](https://media.giphy.com/media/6rpYmcP92XGc2ZtHQ1/giphy.gif)
+
+Use can search favorite by artist or album
+
+![favorite-search](https://media.giphy.com/media/TpAfY4jnG3dpyz6UHx/giphy.gif)
+
+Use can search musician/band by location
+
+![user-search](https://media.giphy.com/media/BZWfoK0t2Wso8WWooy/giphy.gif)
+
+Use can post/view/comment a post
+
+![live-feed](https://media.giphy.com/media/M7t8L7KOcuxSghHVj0/giphy.gif)
+
+Use can join topic chatroom
+
+![live-chat](https://media.giphy.com/media/e6TK4u117QiW66LxAj/giphy.gif)
+
+
