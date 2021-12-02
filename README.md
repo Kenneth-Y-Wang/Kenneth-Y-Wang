@@ -37,11 +37,11 @@ Please check out my recent projects and profiles! :point_down:
 </a>
 
 ## My recent projects
-- [Puppy Paradise](https://github.com/Kenneth-Y-Wang/puppy-paradise) - A web application for puppy lovers who seek entertainment from cute pictures, fun games, and organize their own pets’ daily activities.
+- [Puppy Paradise](https://kenneth-y-wang.github.io/puppy-paradise) - A web application for puppy lovers who seek entertainment from cute pictures, fun games, and organize their own pets’ daily activities.
 
 ---
 
-- [ThriveVox](https://github.com/Kenneth-Y-Wang/ThriveVox) - A full stack web application for musicians and music lovers who want to find single/band members, share and discuss their musical interests and favorites
+- [ThriveVox](https://thrive-vox.herokuapp.com) - A full stack web application for musicians and music lovers who want to find single/band members, share and discuss their musical interests and favorites
 
 User can display personal info
 
