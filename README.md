@@ -37,6 +37,12 @@ Please check out my recent projects and profiles! :point_down:
 <img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Linkedin" width="64px"/> Connect with me on LinkedIn!
 </a>
 
+ - [My portfolio](https://wwww.kennethyw.com)
+ 
+ ![my portfolio](https://drive.google.com/uc?export=view&id=1LXeqTi8aRGMThTKeQac-GeDdbj6Fvz21)
+
+
+
 ## My recent projects
 - [Puppy Paradise](https://kenneth-y-wang.github.io/puppy-paradise) - A web application for puppy lovers who seek entertainment from cute pictures, fun games, and organize their own pets’ daily activities.
 
