@@ -39,7 +39,9 @@ Please check out my recent projects and profiles! :point_down:
 
  - [My portfolio](https://www.kennethyw.com)
  
- ![my portfolio](https://drive.google.com/uc?export=view&id=1LXeqTi8aRGMThTKeQac-GeDdbj6Fvz21)
+ ![my portfolio](https://drive.google.com/uc?export=view&id=1oPNBCZPJ82j5Q2v6wsjNYR_ebqyGblvk)
+ 
+ 
 
 
 
