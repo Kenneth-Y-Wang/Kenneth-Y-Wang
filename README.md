@@ -10,8 +10,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kenneth-Y-Wang&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 - :computer: I’m currently working on React project and SQL studying
-- :muscle: I’m strong in - JavaScript (ES5 and ES6), HTML5, CSS3, React.js, Flexbox, RESTful APIs, Socket IO, SQL
-- :mortar_board: I'm experienced with - Google Ads, Google Analysis, Node.js, C++, Express, AJAX, OOP, SEO, SAP2000, GIS
+- :muscle: I’m strong in - JavaScript (ES5 and ES6), HTML5, CSS3, React.js, Flexbox, RESTful APIs, Socket IO, SQL, Node.js
+- :mortar_board: I'm experienced with - Google Ads, Google Analysis, AWS connect, C++, Express, AJAX, OOP, SEO, SAP2000, GIS
 - :wrench: I'm using tools such as - Git, GitHub, VS Code, JSON, Figma, React Dev Tools, Amazon Web Service, AutoCAD, MATLAB
 
 ---
@@ -25,7 +25,7 @@ As a full-stack web developer, my deep understanding of customer and consumer dy
 
 By having experiences of being sales and business development director, I have an extensive and diverse background in sales and commerce in addition to an excellent track record of leveraging my business development skills and engineering knowledge to successfully support daily operations.
 
-Please check out my recent projects and profiles! :point_down:  
+Please check out my recent projects and portfolio! :point_down:  
 
 --- 
 
