@@ -10,7 +10,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kenneth-Y-Wang&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 - :computer: I’m currently working on React project and SQL studying
-- :muscle: I’m stong in - JavaScript (ES5 and ES6), HTML5, CSS3, React.js, Flexbox, RESTful APIs, Socket IO, SQL
+- :muscle: I’m strong in - JavaScript (ES5 and ES6), HTML5, CSS3, React.js, Flexbox, RESTful APIs, Socket IO, SQL
 - :mortar_board: I'm experienced with - Google Ads, Google Analysis, Node.js, C++, Express, AJAX, OOP, SEO, SAP2000, GIS
 - :wrench: I'm using tools such as - Git, GitHub, VS Code, JSON, Figma, React Dev Tools, Amazon Web Service, AutoCAD, MATLAB
 
@@ -52,24 +52,8 @@ Please check out my recent projects and profiles! :point_down:
 
 - [ThriveVox](https://thrive-vox.herokuapp.com) - A full stack web application for musicians and music lovers who want to find single/band members, share and discuss their musical interests and favorites
 
-User can display personal info
-
 ![User-display](https://media.giphy.com/media/6rpYmcP92XGc2ZtHQ1/giphy.gif)
 
-Use can search favorite by artist or album
 
-![favorite-search](https://media.giphy.com/media/TpAfY4jnG3dpyz6UHx/giphy.gif)
-
-Use can search musician/band by location
-
-![user-search](https://media.giphy.com/media/BZWfoK0t2Wso8WWooy/giphy.gif)
-
-Use can post/view/comment a post
-
-![live-feed](https://media.giphy.com/media/M7t8L7KOcuxSghHVj0/giphy.gif)
-
-Use can join topic chatroom
-
-![live-chat](https://media.giphy.com/media/e6TK4u117QiW66LxAj/giphy.gif)
 
 
