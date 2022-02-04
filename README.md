@@ -1,4 +1,4 @@
-![Kenneth](https://media-exp1.licdn.com/dms/image/C5616AQFnbuwaEBfImw/profile-displaybackgroundimage-shrink_200_800/0/1632790847889?e=1643846400&v=beta&t=EDesJUg72wxWha15VyttS22iTicY4U4dLHCE0BdnLIw)
+![Kenneth](https://media-exp1.licdn.com/dms/image/C5616AQFnbuwaEBfImw/profile-displaybackgroundimage-shrink_200_800/0/1632790847889?e=1649289600&v=beta&t=OCL7cwXrnVA08m-qvMaAExJSna-igfp910cKCTgwJgQ)
 
 
 
