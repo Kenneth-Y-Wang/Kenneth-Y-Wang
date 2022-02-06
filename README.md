@@ -9,8 +9,8 @@
 ![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenneth-Y-Wang&show_icons=true&theme=github_dark&hide=stars,contribs)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kenneth-Y-Wang&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-- :computer: I’m currently working on React project and SQL studying
-- :muscle: I’m strong in - JavaScript (ES5 and ES6), HTML5, CSS3, React.js, Flexbox, RESTful APIs, Socket IO, SQL, Node.js
+- :computer: I’m currently working on React project for Kids Boutique
+- :muscle: I’m strong in - JavaScript (ES5 and ES6), HTML5, CSS3, React.js, Flexbox, RESTful APIs, Socket IO, SQL, Node.js, TypeScript
 - :mortar_board: I'm experienced with - Google Ads, Google Analysis, AWS connect, C++, Express, AJAX, OOP, SEO, SAP2000, GIS
 - :wrench: I'm using tools such as - Git, GitHub, VS Code, JSON, Figma, React Dev Tools, Amazon Web Service, AutoCAD, MATLAB
 
