@@ -39,9 +39,12 @@ Please check out my recent projects and portfolio! :point_down:
 
  - [My portfolio](https://www.kennethyw.com)
  
- ![my portfolio](https://drive.google.com/uc?export=view&id=1oPNBCZPJ82j5Q2v6wsjNYR_ebqyGblvk)
- 
- 
+<!--  ![my portfolio](https://drive.google.com/uc?export=view&id=1oPNBCZPJ82j5Q2v6wsjNYR_ebqyGblvk) -->
+<!--  https://user-images.githubusercontent.com/88110300/160226127-db29ea30-3216-4766-9e76-9af735074b92.mov
+ -->
+ ![Screen Shot 2022-03-25 at 10 30 20 PM](https://user-images.githubusercontent.com/88110300/160226216-fbead55b-c892-4294-8e3b-2c246c1fcd6f.png)
+
+
 
 
 
