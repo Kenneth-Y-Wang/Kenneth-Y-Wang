@@ -1,5 +1,4 @@
-![Kenneth](https://media-exp1.licdn.com/dms/image/C5616AQFnbuwaEBfImw/profile-displaybackgroundimage-shrink_200_800/0/1632790847889?e=1649289600&v=beta&t=OCL7cwXrnVA08m-qvMaAExJSna-igfp910cKCTgwJgQ)
-
+![Component 52](https://user-images.githubusercontent.com/88110300/162653964-8eb86ab8-0afc-452e-ba4a-b624cbb2fd89.png)
 
 
 ---
