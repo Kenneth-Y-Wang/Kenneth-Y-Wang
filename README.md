@@ -8,7 +8,7 @@
 ![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenneth-Y-Wang&show_icons=true&theme=github_dark&hide=stars,contribs)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kenneth-Y-Wang&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-- :computer: I’m currently working on React project for Kids Boutique , and Oculus website, React/TS board Game for Meta! I am also studying React Redux!
+- :computer: I’m currently working on React project for Kids Boutique , and Oculus website for Meta! 
 - :muscle: I’m strong in - JavaScript (ES5 and ES6), HTML5, CSS3, React.js, Socket IO, SQL, Node.js, TypeScript
 - :mortar_board: I'm experienced with - Google Ads, Google Analysis, AWS connect, C++, Express, AJAX, PHP, SEO, SAP2000, GIS
 - :wrench: I'm using tools such as - Git, GitHub, VS Code, Figma, React Dev Tools, Amazon Web Service, AutoCAD, MATLAB, Etc.
