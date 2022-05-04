@@ -20,7 +20,7 @@
 
 Hi there, my name is Kenneth! 
 
-As a full-stack web developer, my deep understanding of customer and consumer dynamics has helped me to introduce positive solutions to new challenges on a consistent basis. 
+As a full-stack software engineer, my deep understanding of customer and consumer dynamics has helped me to introduce positive solutions to new challenges on a consistent basis. 
 
 By having experiences of being sales and business development director, I have an extensive and diverse background in sales and commerce in addition to an excellent track record of leveraging my business development skills and engineering knowledge to successfully support daily operations.
 
