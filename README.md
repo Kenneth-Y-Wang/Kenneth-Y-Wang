@@ -32,9 +32,8 @@ Please check out my recent projects and portfolio! :point_down:
 
 ## Connect Me!
 
-<a href="https://www.linkedin.com/in/kenneth-wang8/">
-<img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Linkedin" width="64px"/> Connect with me on LinkedIn!
-</a>
+ - <a href="https://www.linkedin.com/in/kenneth-wang8/">Connect with me on LinkedIn!</a>
+
 
  - [My portfolio](https://www.kennethyw.com)
  
