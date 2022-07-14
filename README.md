@@ -6,6 +6,7 @@
 # Hi Everyone, This is *Kenneth* :satellite:
 
 ![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenneth-Y-Wang&show_icons=true&theme=github_dark&hide=stars,contribs)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kenneth-Y-Wang&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 - :computer: I’m currently working on React project for Kids' Boutique, Meta Quest 2, Meta pay & Meta Store sites for Meta! 
