@@ -9,7 +9,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kenneth-Y-Wang&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
-- :computer: I’m currently working on React project for Kids' Boutique, Meta Quest 2, Meta pay & Meta Store sites for Meta! 
+- :computer: I’m currently working on Home site for Kids' Boutique,  and Meta Quest 2, Meta pay & Meta Store sites for Meta! 
 - :muscle: I’m strong in - JavaScript (ES5 and ES6), HTML5, CSS3, React.js, Socket IO, SQL, Node.js, TypeScript, Etc.
 - :mortar_board: I'm experienced with - Google Ads, Google Analysis, AWS connect, C++, Express, AJAX, PHP, SEO, SAP2000, GIS, Etc.
 - :wrench: I'm using tools such as - Git, GitHub, VS Code, Figma, React Dev Tools, Amazon Web Service, AutoCAD, MATLAB, Etc.
