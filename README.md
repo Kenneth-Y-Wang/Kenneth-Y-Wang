@@ -11,7 +11,7 @@
 
 - :computer: I’m currently working on Official home site for Kids' Boutique, and Meta Quest, Meta pay & Meta Store sites for Meta! 
 - :muscle: I’m strong in - JavaScript (ES5 and ES6), HTML5, CSS3, React.js, Socket IO, SQL, Node.js, TypeScript, Etc.
-- :mortar_board: I'm experienced with - Google Ads, Google Analysis, AWS connect, C++, Express, AJAX, PHP, SEO, SAP2000, GIS, Etc.
+- :mortar_board: I'm experienced with - Gatsby, GraphQL, Google Ads, Google Analysis, AWS connect, C++, Express, AJAX, PHP, SEO, SAP2000, GIS, Etc.
 - :wrench: I'm using tools such as - Git, GitHub, VS Code, Figma, React Dev Tools, Amazon Web Service, AutoCAD, MATLAB, Etc.
 
 ---
