@@ -26,6 +26,8 @@ By having experiences of being sales and business development director, I have a
 
 Please check out my recent projects and portfolio! :point_down:  
 
+Thank you!
+
 --- 
 
 # My links :link:
