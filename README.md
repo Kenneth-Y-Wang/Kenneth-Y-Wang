@@ -6,7 +6,6 @@
 # Hi Everyone, This is *Kenneth* :satellite:
 
 ![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenneth-Y-Wang&show_icons=true&theme=github_dark&hide=stars,contribs)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kenneth-Y-Wang&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 - :computer: I’m currently working on creating Meta Experience Hub, Meta Developer Center, Meta pay & assisting in launching Meta Connect with the brand new Quest Pro headset! 
