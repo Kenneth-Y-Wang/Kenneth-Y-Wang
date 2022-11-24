@@ -9,7 +9,7 @@
 
 
 - :computer: I’m currently working on remaking Meta Experience Hub, creating Meta Developer Center, and updating Meta pay/WhatsApp payment & Meta Connect with the brand new Quest Pro headset! 
-- :muscle: I’m strong in - JavaScript (ES5 and ES6), HTML5, CSS3, React, Socket IO, SQL, Node.js, TypeScript, Etc.
+- :muscle: I’m strong in - JavaScript (ES5 and ES6), HTML5, CSS3, React, Socket IO, SQL, Node.js, TypeScript, MUI, Etc.
 - :mortar_board: I'm experienced with - Gatsby, Next, GraphQL, Google Ads, Google Analysis, AWS connect, C++, Express, AJAX, PHP, SEO, SAP2000, GIS, Etc.
 - :wrench: I'm using tools such as - Git, GitHub, Contentful, VS Code, Figma, React Dev Tools, Amazon Web Service, AutoCAD, MATLAB, Etc.
 
