@@ -5,8 +5,8 @@
 
 # Hi Everyone, This is *Kenneth* :satellite:
 
-![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenneth-Y-Wang&show_icons=true&theme=github_dark&hide=stars,contribs)
-
+<!-- ![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenneth-Y-Wang&show_icons=true&theme=github_dark&hide=stars,contribs)
+ -->
 
 - :computer: I’m currently working on creating Codazen redesigned website, Meta Experience Hub & Developer Center, and updating Meta pay/WhatsApp payment & Meta Connect pages with the brand new Quest Pro headset & accessories! 
 - :muscle: I’m strong in - JavaScript(ES5 and ES6), HTML5, CSS3, React, Socket IO, SQL, Node.js, TypeScript, MUI, Etc.
