@@ -18,7 +18,7 @@
 
 # About Me :bulb:
 
-Hi, my name is Kenneth! 
+Hi there, my name is Kenneth! 
 
 As a full-stack software engineer, my deep understanding of customer and consumer dynamics has helped me to introduce positive solutions to new challenges on a consistent basis. 
 
