@@ -3,7 +3,7 @@
 
 ---
 
-# Hi Everyone, This is *Kenneth* :satellite:
+# Hello Everyone, This is *Kenneth* :satellite:
 
 ![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenneth-Y-Wang&show_icons=true&theme=github_dark&hide=stars,contribs)
 
