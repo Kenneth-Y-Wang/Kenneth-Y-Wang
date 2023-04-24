@@ -11,14 +11,14 @@
 - :computer: I’m currently working on creating Codazen redesigned website & blogs, Meta Experience Hub, and updating Meta pay/WhatsApp payment & Meta Connect pages with the brand new Quest Pro headset & accessories! 
 - :muscle: I’m strong in - JavaScript(ES5 and ES6), HTML5, CSS3, React, Socket IO, SQL, Node.js, TypeScript, MUI, Etc.
 - :mortar_board: I'm experienced with - Next.Js, Gatsby, Salesforce, HubSpot, GraphQl, Google Ads, Google Analysis, Tealium, Apollo Client, AWS connect, AWS EB & Amplify, C++, Express, AJAX, PHP, SEO, SAP2000, GIS, Etc.
-- :wrench: I'm using tools such as - Git, GitHub, Contentful, Strapi, VS Code, Figma, React Dev Tools, AWS EB, CodeBuild & Pipeline, AutoCAD, MATLAB, Etc.
+- :wrench: I'm using tools such as - Git, GitHub, Contentful, Strapi, Elastic, VS Code, Figma, React Dev Tools, AWS EB, CodeBuild & Pipeline, AutoCAD, MATLAB, Etc.
 
 ---
 
 
 # About Me :bulb:
 
-Hi there, my name is Kenneth! 
+Hello there, my name is Kenneth! 
 
 As a full-stack software engineer, my deep understanding of customer and consumer dynamics has helped me to introduce positive solutions to new challenges on a consistent basis. 
 
