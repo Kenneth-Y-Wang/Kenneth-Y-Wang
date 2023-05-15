@@ -10,7 +10,7 @@
 
 - :computer: I’m currently working on creating Codazen's redesigned website & blogs, Meta Experience Hub, and updating Meta pay/WhatsApp payment & Meta Connect pages with the brand new Quest Pro headset & accessories! 
 - :muscle: I’m strong in - JavaScript(ES5 and ES6), HTML5, CSS3, React, Socket IO, SQL, Node.js, TypeScript, MUI, Etc.
-- :mortar_board: I'm experienced with - Next.js, Gatsby, Salesforce, HubSpot, GraphQl, Google Ads, Google Analysis, Tealium, Apollo Client, AWS connect, AWS EB & Amplify, C++, Express, AJAX, PHP, SEO, SAP2000, GIS, Etc.
+- :mortar_board: I'm experienced with - Next.js, Gatsby, Salesforce, HubSpot, GraphQl, Google Ads, Google Analysis, Tealium, Apollo Client, AWS connect, AWS EB & Amplify, C++, Express, AJAX, SEO, SAP2000, GIS, Etc.
 - :wrench: I'm using tools such as - Git, GitHub, Contentful, Strapi, Elastic Search, dbeaver, VS Code, Figma, React Dev Tools, AWS EB, Amplify, CodeBuild & Pipeline, AutoCAD, MATLAB, Etc.
 
 ---
