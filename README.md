@@ -9,7 +9,7 @@
 
 
 - :computer: I’m currently working on creating Codazen's redesigned website & the POWERFUL AI-Powered Perception Project, and updating Meta pay/WhatsApp payment & Meta Connect pages with the brand new Quest Pro headset & accessories! 
-- :muscle: I’m strong in - JavaScript(ES5 and ES6), HTML5, CSS3, React, Next.js, Socket IO, SQL, Node.js, TypeScript, MUI, Etc.
+- :muscle: I’m strong in - JavaScript(ES5 and ES6), TypeScript, HTML5, CSS3, React, Next.js, Socket IO, SQL, Node.js, MUI, Etc.
 - :mortar_board: I'm experienced with - Gatsby, Salesforce, HubSpot, Yarn, GraphQl, Google Ads & Analysis, Tealium, Apollo Client, AWS Connect, EB & Amplify, C++, Express, AJAX, SEO, SAP2000, GIS, Etc.
 - :wrench: I'm using tools such as - Git, GitHub, Contentful, Strapi, Elastic Search, dbeaver, Webpack, VS Code, Figma, React Dev Tools, AWS CodeBuild & Pipeline, Google Analytics, AutoCAD, MATLAB, Etc.
 
