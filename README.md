@@ -5,7 +5,7 @@
 
 # Hello Everyone, This is *Kenneth* :satellite:
 
-<!-- ![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenneth-Y-Wang&show_icons=true&theme=github_dark&hide=stars,contribs) -->
+![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenneth-Y-Wang&show_icons=true&theme=github_dark&hide=stars,contribs) 
 
 
 - :computer: I’m currently working on creating Codazen's redesigned website & the amazing AI-Powered Perception Project, and updating Meta pay/WhatsApp payment & Meta Connect pages with the brand new Quest Pro headset & accessories! 
