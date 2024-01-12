@@ -8,7 +8,7 @@
 <!-- ![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenneth-Y-Wang&show_icons=true&theme=github_dark&hide=stars,contribs) -->
 
 
-- :computer: I’m currently working on The Stunning & Incredible AI-Powered Perception Project, and updating Meta pay/WhatsApp payment official sites & Meta Connect pages with the brand new Quest Pro and Quest 3 headset & accessories! 
+- :computer: I’m currently working on The Stunning & awesome AI-Powered Perception Project, and updating Meta pay/WhatsApp payment official sites & Meta Connect pages with the brand new Quest Pro and Quest 3 headset & accessories! 
 - :muscle: I’m strong in - JavaScript(ES5 and ES6), TypeScript, HTML5, CSS3, React, Next.js, Socket IO, SQL, Node.js, MUI, Etc.
 - :mortar_board: I'm experienced with - Gatsby, Salesforce, HubSpot, Yarn, GraphQl, Google Ads & Analysis, Tealium, Apollo Client, AWS Connect, EB & Amplify, C++, Express, AJAX, SEO, SAP2000, GIS, Etc.
 - :wrench: I'm using tools such as - Git, GitHub, Contentful, Strapi, Elastic Search, dbeaver, Webpack, VS Code, Figma, React Dev Tools, AWS CodeBuild & Pipeline, AutoCAD, MATLAB, Etc.
