@@ -8,7 +8,7 @@
 <!-- ![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenneth-Y-Wang&show_icons=true&theme=github_dark&hide=stars,contribs) -->
 
 
-- :computer: I’m currently working on The Stunning & astonishing AI-Powered Perception Studio platform, and updating the Meta Family center official sites & Meta Family center & the upcoming Meta Connect 2025 official sites! 
+- :computer: I’m currently working on the Stunning & astonishing AI-Powered Perception Studio platform, and creating the Meta Family center official sites & Meta Family center & the upcoming Meta Connect 2025 official sites! 
 - :muscle: I’m strong in - JavaScript(ES5 and ES6), TypeScript, HTML5, CSS3, React, Next.js, Socket IO, SQL, Node.js, MUI, Etc.
 - :mortar_board: I'm experienced with - Gatsby, Salesforce, HubSpot, Yarn, GraphQl, Google Ads & Analysis, Tealium, Apollo Client, AWS Connect, EB & Amplify, C++, Express, AJAX, SEO, SAP2000, GIS, Etc.
 - :wrench: I'm using tools such as - Git, GitHub, Contentful, Strapi, ConfigCat, Elastic Search, dbeaver, Webpack, VS Code, Figma, Google Analytics & Search Console, React Dev Tools, AWS CodeBuild & Pipeline, AutoCAD, MATLAB, Etc.
